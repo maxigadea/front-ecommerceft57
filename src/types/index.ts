@@ -63,3 +63,7 @@ export interface ICategories {
     name: string;
     id: number
 }
+
+export interface TestVercel {
+    id: number
+}
